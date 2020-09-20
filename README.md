@@ -15,3 +15,10 @@
  -- Tuple
  -- Set
  -- Dictionary
+ 
+ #Different Types of Comments
+ - Single line Comment
+ - Multiline Comment
+ 
+ -- # For single line
+ -- """ """ or ''' ''' For multiline
