@@ -22,3 +22,9 @@
  
  -- # For single line
  -- """ """ or ''' ''' For multiline
+ 
+ # Variables
+ - No need of declaring a variable
+ - Direct assignment of values to the variables
+ - No datatype specification is needed
+ - The variable takes the type of the value assigned
