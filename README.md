@@ -16,11 +16,11 @@
  - Set
  - Dictionary
  
- #Different Types of Comments
+ # Different Types of Comments
  - Single line Comment
  - Multiline Comment
  
- - # For single line
+ - ' # ' For single line
  - """ """ or ''' ''' For multiline
  
  # Variables
