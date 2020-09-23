@@ -1,28 +1,22 @@
-a = []
-a2 = []
+
 t = int(input("Enter "))
 for k in range (0,t):
-
+    a = []
+    a2 = []
     n = int(input("Enter "))
     
     for m in range(0,n):
         s = int(input("V: "))
         a.append(s)
-    
-    print(a)
 
-    i = 1
-    j = n -1
-    while i < n-1:
+    j = n-1
+    for i in range(1,n-1):
         l = a[j] - a[i] - 1
         a2.append(l)
-
-    i += 1           
     print(a2)
             
-    val = a2.sort().pop()
-    print(val)
-    print(val * val)
+    l2 = sorted(a2).pop()
+    print(l2 * l2)
 
 
 # #include <iostream>
