@@ -28,3 +28,6 @@
  - Direct assignment of values to the variables
  - No datatype specification is needed
  - The variable takes the type of the value assigned
+
+# Literals
+- String Literals are one of the type
