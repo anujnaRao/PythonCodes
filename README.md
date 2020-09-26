@@ -1,5 +1,5 @@
 # PythonCodes
- Few programs solved in Python
+Programs implimented using basic Python concepts
 
 # Important Points to remember in Python
  - No Semicolon or termination  
