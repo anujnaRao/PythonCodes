@@ -29,5 +29,10 @@ Programs implimented using basic Python concepts
  - No datatype specification is needed
  - The variable takes the type of the value assigned
 
-# Literals
-- String Literals are one of the type
+# Scope of a Variable 
+- Local Scope
+- Global Scope
+  Local Scope is when a variable is assigned and used within a function
+  Global Scope is when a variable is assigned and used throught the program
+  
+  But in Python same variable used inside and outside the function acquires different scopes
