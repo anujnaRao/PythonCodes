@@ -36,3 +36,7 @@ Programs implimented using basic Python concepts
   Global Scope is when a variable is assigned and used throught the program
   
   But in Python same variable used inside and outside the function acquires different scopes
+  
+# List
+- [] is the representation of list
+- It is can unordered, can contain duplicates and can have any type of values in it
