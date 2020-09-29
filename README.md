@@ -40,3 +40,10 @@ Programs implimented using basic Python concepts
 # List
 - [] is the representation of list
 - It is can unordered, can contain duplicates and can have any type of values in it
+- It is mutable
+
+# Tuples
+- () is the representation of tuple
+- It is unordered, can contain duplicates and can have any type of values in it
+- It is immutable
+- The last value should be followed by a comma(,)
