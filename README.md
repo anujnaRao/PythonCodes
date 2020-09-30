@@ -36,6 +36,7 @@ Programs implimented using basic Python concepts
   Global Scope is when a variable is assigned and used throught the program
   
   But in Python same variable used inside and outside the function acquires different scopes
+  Both variables hold different places in memory
   
 # List
 - [] is the representation of list
