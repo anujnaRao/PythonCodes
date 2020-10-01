@@ -48,3 +48,9 @@ Programs implimented using basic Python concepts
 - It is unordered, can contain duplicates and can have any type of values in it
 - It is immutable
 - The last value should be followed by a comma(,)
+
+# Dictionary
+- It is Key-Value Pair
+- It is ordered, Keys are immutable but values are mutable
+- It cannot contain duplicates
+- Values can be accessed with keys
