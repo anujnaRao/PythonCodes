@@ -51,6 +51,12 @@ Programs implimented using basic Python concepts
 
 # Dictionary
 - It is Key-Value Pair
+- It is represented within {}
 - It is ordered, Keys are immutable but values are mutable
 - It cannot contain duplicates
 - Values can be accessed with keys
+
+# Sets
+- It is represented in {}
+- It is ordered, and immutable
+- It can not contain duplicates
